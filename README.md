@@ -1,5 +1,7 @@
-AI Learning Assistant
+AI Learning Assistant                                                                 Live Demo:https://your-project.vercel.app
 
+
+ 
 A personalized AI-powered learning assistant that converts notes, YouTube lectures, and audio classes into interactive study materials such as summaries, quizzes, flashcards, chat support, and performance analytics.
 
 Overview
@@ -232,11 +234,6 @@ It is suitable for academic submission as well as portfolio presentation.
 - Spaced repetition for flashcards
 - Role-based access control
 - Cloud deployment for scalability
-
-
-
-Live Demo:
-https://your-project.vercel.app
 
 
 ## Author
